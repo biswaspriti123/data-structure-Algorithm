@@ -20,9 +20,12 @@ The Problems I have solved :
 1) [Reverse Number-Leetcode](https://leetcode.com/problems/reverse-integer/description/) : This programs do reverse of number
 2) [Print Array](https://github.com/SachinSS45/Data-Structures-Algo/blob/master/Arrays/Program01.java) : This code shows how to print array
 
-#### January 23
-The Problems I have solved : 
-1) [count prime number](https://leetcode.com/problems/count-primes/submissions/1514644767/) : this programe do count a number
+ Today Focus on basic of Array:
+ 1) Array basic
+ 2) set of problem solve in array
+ 3) Programe
+    1) linear Search
+    2) Reverse Number
 
 All contributions will be reviewed and merged if they add value to the repository. 😊
 
