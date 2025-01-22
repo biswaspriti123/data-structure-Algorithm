@@ -12,6 +12,7 @@ Click on a month to explore day-wise progress:
 
 ### January
 - **[January 22](#january-22)**
+- **[January 23](#january-23)**
 
 
 #### January 22
@@ -19,7 +20,9 @@ The Problems I have solved :
 1) [Reverse Number-Leetcode](https://leetcode.com/problems/reverse-integer/description/) : This programs do reverse of number
 2) [Print Array](https://github.com/SachinSS45/Data-Structures-Algo/blob/master/Arrays/Program01.java) : This code shows how to print array
 
-
+#### January 23
+The Problems I have solved : 
+1) [count prime number](https://leetcode.com/problems/count-primes/submissions/1514644767/) : this programe do count a number
 
 All contributions will be reviewed and merged if they add value to the repository. 😊
 
