@@ -1,2 +1,2 @@
 # data-structure-Algorithm
-I will upload my daily learning
+I will upload my daily learning codes
