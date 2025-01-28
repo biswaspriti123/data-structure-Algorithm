@@ -13,6 +13,7 @@ Click on a month to explore day-wise progress:
 ### January
 - **[January 22](#january-22)**
 - **[January 23](#january-23)**
+-  **[January 28](#january-28)**
 
 
 #### January 22
@@ -26,7 +27,15 @@ The Problems I have solved :
  3) Programe
     1) linear Search
     2) Reverse Number
+   
+    **January 28
+   
+  Today Focus on  Array:
+ 1) Array problems:
+ 2)[ missing number](https://leetcode.com/problems/missing-number/description/) : This code show how to find the missing number
+    
 
+    
 All contributions will be reviewed and merged if they add value to the repository. 😊
 
 ## 📧 Contact
